@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently learning web development to be able to make changes for people who needs them.
 <br><br>📖 I like to read, japanese pop culture, games and work on nerd events. 
-<br><br>🖥️ I currently like to work with React, ReactHooks, MySQL and ExpressJS, and am currently learning object-oriented programming.
+<br><br>🖥️ I currently like to work with React, ReactHooks, MySQL, ExpressJS and TypeScript and am currently learning object-oriented programming.
 <br><br>💬 Feel free to ask me anything! if it's something I don't know, we can explore and research it together.
 <br><br>🇺🇸EN, 🇪🇸ES, 🇯🇵JP, 🇧🇷PT-BR - ALL OK.
 
